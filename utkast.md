@@ -43,7 +43,7 @@
 
 
 
-#SVAMMEL
+# SVAMMEL
 
 ### Google ORK - Organisationen sätter mål som speglas i arbetsgruppens och i de individuella målen
 ### 1-2-1 med en chef/mentor för att följa upp __din__ status
