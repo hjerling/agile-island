@@ -30,10 +30,25 @@
  - Del av iPlayer där jag jobbade som hade hand om den underliggande datan
  - Grupp på 5 personer, alla programmerare
 
-## Varför är det viktigt att lära sig saker?
+## Varför är det viktigt för företaget att jag lär mig saker?
 
 ### Nya verktyg
- - Företaget skaffar nytt verktyg eller nya arbetssätt
+ - Företaget skaffar nytt verktyg, nya arbetssätt
 
 ### Nya åtagande
- - Företaget tar sig ann nya uppgifter nya kunder
+ - Företaget tar sig ann nya uppgifter, nya kunder
+
+- #### Dessa punkter är ju till företagets direkta fördel men finns det orsak för ett företag att låta mig lära och utforska annat? Och då vad? Och hur?
+
+
+
+
+#SVAMMEL
+
+### Google ORK - Organisationen sätter mål som speglas i arbetsgruppens och i de individuella målen
+### 1-2-1 med en chef/mentor för att följa upp __din__ status
+### Flat organisation där en junior kan göra samma sak som en senior. Alla drar vi åt samma håll.
+### Tydligt ägarskap så att det också är tydligt var ansvaret ligger
+
+
+# __Frihet genom ansvar__
