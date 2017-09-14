@@ -49,6 +49,8 @@
 ### 1-2-1 med en chef/mentor för att följa upp __din__ status
 ### Flat organisation där en junior kan göra samma sak som en senior. Alla drar vi åt samma håll.
 ### Tydligt ägarskap så att det också är tydligt var ansvaret ligger
+### Ett tydligt ägarskap innebär självständighet och ansvarstagande
 
 
 # __Frihet genom ansvar__
+# __Självständighet är ansvar__
