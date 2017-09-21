@@ -47,10 +47,13 @@
 
 ### Google ORK - Organisationen sätter mål som speglas i arbetsgruppens och i de individuella målen
 ### 1-2-1 med en chef/mentor för att följa upp __din__ status
-### Flat organisation där en junior kan göra samma sak som en senior. Alla drar vi åt samma håll.
+### Flat organisation/grupp där en junior kan göra samma sak som en senior. Alla drar vi åt samma håll.
 ### Tydligt ägarskap så att det också är tydligt var ansvaret ligger
 ### Ett tydligt ägarskap innebär självständighet och ansvarstagande
 ### Gör dig själv umbärlig. Det är det nya du gör som gör dig oumbärlig, hur du tar itu med saker, hur du löser problem. Om du behöver tänka på allt bagage av vad du tidigare gjort så trampar du i gyttja med det nya och framåtsträvande.
+### Train people well enough so they can leave, treat them well enough so they don't want to - Richard Branson
+
 
 # __Frihet genom ansvar__
-# __Självständighet är ansvar__
+# __Självständighet är frihet__
+# __Självständighet innebär ansvar__
