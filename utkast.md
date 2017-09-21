@@ -1,9 +1,9 @@
 # Agile Island Presentation
 
 ## Vad vill jag berätta
-- Hur en organisation kan lära sig saker
+- Hur hjälper en organisation sina anställda framåt? 
 - Hur en arbetsgrupp kan lära sig saker
-- Hur jag som anställd kan lära sig saker
+- Hur hjälper de anställda sin organisation framåt?
 
 ## Jag
 - Johan Hjerling
